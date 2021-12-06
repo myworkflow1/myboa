@@ -1,0 +1,5 @@
+#!/bin/bash 
+echo "what is your name "
+read name 
+echo list of 2021 devops engineers 
+echo 
